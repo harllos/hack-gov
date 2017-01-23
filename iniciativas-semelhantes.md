@@ -2,9 +2,11 @@
 
 * [code for america](https://www.codeforamerica.org/)
 * [open brazil](http://openbrazil.strikingly.com/)
+
   tipo um code for br
 * [hacking the hackathon - Texas, USA](https://govex.jhu.edu/hacking-the-hackathon/)
 * [code for kansas city - USA](http://codeforkc.org/hackkc/)
+
   a ideia deles também é de continuidade
 * [accountability hack](http://accountabilityhack.org/)
 * [blockchain virtual gov hack - UAE](http://blockchainvirtualgovhack.com/)
