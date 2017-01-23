@@ -1,11 +1,11 @@
 # hack-gov
 
-Participação de gestores, corregedoria
-Plataforma de problemas de gestores públicos. Dá pra trazer um ou dois gestores com um problema real. 
-GT na conferência reunindo gestores, desenvolvedores e empreendedores. 
-Aceleradora de ideias de políticas públicas (gente com ideia, chega, entra na rede, com pessoas mais experientes, e minimiza os riscos de insucesso das pessoas).
-Temas por edição
-Pesquisar por experiencias similares. 
+- Participação de gestores, corregedoria.
+- Plataforma de problemas de gestores públicos. Dá pra trazer um ou dois gestores com um problema real. 
+- GT na conferência reunindo gestores, desenvolvedores e empreendedores. 
+- Aceleradora de ideias de políticas públicas (gente com ideia, chega, entra na rede, com pessoas mais experientes, e minimiza os riscos de insucesso das pessoas).
+- Temas por edição
+- Pesquisar por experiencias similares. 
 
 Proposta da Hack Gov
 
@@ -37,16 +37,13 @@ _Aqui poderia aparecer algo mais palpável sobre o que vai ser a hackathon do di
 
 ### 3.2 Mini Recruitment Fair
 
-Pretende-se convidar algumas instituições relacionadas ao tema da conferência e criar um 
-espaço de divulgação e recrutamento no hall do Centro de Convenções (Vetor Brasil, MGov,
-Falconi, McKinsey, Eleva, Artemisia, 21212, Fundação Estudar). Seria uma excelente oportunidade de divulgação paras as instituições convidadas e de futuros estágios e empregos
-para os alunos da FGV.
+Pretende-se convidar algumas instituições relacionadas ao tema da conferência e criar um espaço de divulgação e recrutamento no hall do Centro de Convenções (Vetor Brasil, MGov, Falconi, McKinsey, Eleva, Artemisia, 21212, Fundação Estudar). Seria uma excelente oportunidade de divulgação paras as instituições convidadas e de futuros estágios e empregos para os alunos da FGV.
 
 ## 4. PÚBLICO-ALVO
 
 - (i) Desenvolvedores socially oriented;
 - (ii) 
-
+___
 - (i) Comunidade acadêmica da FGV;
 - (ii) Comunidade acadêmica de outras universidades;
 - (iii) Gestores públicos locais, regionais e nacionais;
@@ -79,10 +76,10 @@ Ajuda de custo_
 
 - Começar como um evento estilo Hackathon. 
 - Ponto de encontro de grupos de desenvolvedores.
-
+___
 - Evento inicial: Hackaton de políticas públicas (linha1, linha 2).
 - Premiação.
-
+___
 - Pessoas ligadas a empreendedorismo > Silvio Meira e pesquisar outros.
 - Pessoal do empreendedorismo social.
 - Evento-teste com pessoas mais próximas - FGV etc.
