@@ -69,17 +69,3 @@ _ideias: pablo cerdeira, alex van de sande, etc_
 
 _Vai precisar do que em cada etapa da jornada?
 Ajuda de custo_
-
----
-
-### Brainstorm da reunião (13/01):
-
-- Começar como um evento estilo Hackathon. 
-- Ponto de encontro de grupos de desenvolvedores.
-___
-- Evento inicial: Hackaton de políticas públicas (linha1, linha 2).
-- Premiação.
-___
-- Pessoas ligadas a empreendedorismo > Silvio Meira e pesquisar outros.
-- Pessoal do empreendedorismo social.
-- Evento-teste com pessoas mais próximas - FGV etc.
