@@ -6,7 +6,7 @@
 * [hacking the hackathon - Texas, USA](https://govex.jhu.edu/hacking-the-hackathon/)
 * [code for kansas city - USA](http://codeforkc.org/hackkc/)
   a ideia deles também é de continuidade
-* [accountability hack](http://accountabilityhack.org/
+* [accountability hack](http://accountabilityhack.org/)
 * [blockchain virtual gov hack - UAE](http://blockchainvirtualgovhack.com/)
 * [gov hack - UK](http://portal.govhack.org/)
 * [policy hack - AU](https://www.policyhack.com.au/)
