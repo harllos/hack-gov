@@ -1,4 +1,4 @@
-# hack-gov
+# jornada _hacker_
 
 - Participação de gestores, corregedoria.
 - Plataforma de problemas de gestores públicos. Dá pra trazer um ou dois gestores com um problema real. 
@@ -8,17 +8,22 @@
 - Pesquisar por experiencias similares. 
 
 
-*** COMEÇA Proposta da Hack Gov ***
+COMEÇA | Proposta da Hack Gov
+--------------- | -------
 
-Titulozinho maneiro
+Proposta da Jornada _Hacker_
 
 ## 1. JUSTIFICATIVA
 
-@@O Brasil encontra-se em momento decisivo para seu futuro. Como nação, estamos passando por momentos delicados em nossa democracia. Como potência, o cenário econômico exige seriedade e estratégia para ser modificado. Da crise econômica e política que vivemos, apenas temos a certeza de que ela chegará ao fim. Apesar de não podermos prever o quando e o como, ainda podemos, como sociedade ativa, informada e crítica, debater largamente as possibilidades e os caminhos existentes@@.
+~~O Brasil encontra-se em momento decisivo para seu futuro. Como nação, estamos passando por momentos delicados em nossa democracia. Como potência, o cenário econômico exige seriedade e estratégia para ser modificado. Da crise econômica e política que vivemos, apenas temos a certeza de que ela chegará ao fim. Apesar de não podermos prever o quando e o como, ainda podemos, como sociedade ativa, informada e crítica, debater largamente as possibilidades e os caminhos existentes~~
 
-Diante deste contexto, o Laboratório de Políticas da Fundação Getulio Vargas, em sua missão e propósito de discutir a realidade brasileira, propõe a criação de um hub que agregue desenvolvedores socialmente orientados e interessados em resolver problemas nacionais por meio do uso da tecnologia.
+Ao organizar a Conferência Desafio Brasil, a equipe do __LAB FGV__ verificou a existência de gestores públicos comprometidos com a inovação digital e a falta de desenvolvedores envolvimentos em projetos-piloto junto ao setor público. A proposta da jornada _hacker_ é promover o encontro de gestores públicos com as pessoas capacitadas tecnicamente para desenvolver projetos de inovação digital.
 
-Uma hackajourney é um modo de fazer com que pessoas interessadas em hackear o governo entrem em contato e orbitem o LAB, uma maneira de estarem “no quintal”, desenvolvendo ideias que podem: i) surgir espontaneamente desses encontros criativos e ii) serem desenvolvidas a partir de necessidades do Lab.
+O diagnóstico feito pelo __LAB FGV__ indica que não há falta de programadores _socially-oriented_, i.e., preocupados com o bem-estar social da sociedade em que vivem. Uma vez que não parece haver falta de demanda por esses desenvolvedores, existe um obstáculo que impede o encontro de gestores e de programadores: __a ausência de espaços e de redes que os conectem.__ 
+
+Diante deste contexto, o Laboratório de Políticas da Fundação Getulio Vargas, em sua missão e propósito de discutir a realidade brasileira, propõe a criação de um hub que agregue desenvolvedores orientados socialmente e interessados em resolver problemas nacionais por meio do uso da tecnologia.
+
+Uma jornada _hacker_ é um modo de fazer com que pessoas interessadas em _hackear_ o governo entrem em contato e orbitem o __LAB FGV__, uma maneira de estarem próximos, desenvolvendo ideias que podem: i) surgir espontaneamente desses encontros criativos; e ii) serem desenvolvidas a partir de necessidades do __LAB FGV__.
 
 ## 2. OBJETIVOS
 
@@ -42,15 +47,13 @@ Pretende-se convidar algumas instituições relacionadas ao tema da conferência
 
 ## 4. PÚBLICO-ALVO
 
-- (i) Desenvolvedores socially oriented;
-- (ii) 
-___
-- (i) Comunidade acadêmica da FGV;
-- (ii) Comunidade acadêmica de outras universidades;
-- (iii) Gestores públicos locais, regionais e nacionais;
-- (vi) Lideranças da iniciativa privada e do terceiro setor;
-- (v) Representantes do poder Judiciário e dos órgãos de controle;
-- (vi) Lideranças políticas.
+- Desenvolvedores _socially oriented_;
+- Comunidade acadêmica da FGV;
+- Comunidade acadêmica de outras universidades;
+- Gestores públicos locais, regionais e nacionais;
+- Lideranças da iniciativa privada e do terceiro setor;
+- Representantes do poder Judiciário e dos órgãos de controle;
+- Lideranças políticas.
 
 O evento é destinado a todos aqueles que se interessem e/ou queiram discutir e propor novas agendas da política brasileira.
 
@@ -71,4 +74,5 @@ _ideias: pablo cerdeira, alex van de sande, etc_
 _Vai precisar do que em cada etapa da jornada?
 Ajuda de custo_
 
-*** FIM Proposta da Hack Gov ***
+TERMINA | Proposta da Hack Gov
+------- | -------
