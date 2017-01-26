@@ -67,11 +67,11 @@ _ideias: pablo cerdeira, alex van de sande, etc_
 
 - [ ] Identificar grupos que tão fazendo o que o LAB quer fazer (quais dificuldades eles estão enfrentando para formar uma rede? É possível realizar parcerias?).
 
-> @fernanda pode escrever
+> @fernandascovino pode escrever
 
 - [ ] Identificar grupos que tão desenvolvendo projetos de governo e tecnologia (banco de dados do Victor do CTS).
 
-> @harllos pode escrever
+> @labFGV pode escrever
 
 - Identificar desenvolvedores foda pra atrair os menores.
 - Parcerias também com DAs de Computação, Mat, Empresas de pequeno, médio e grande porte.
