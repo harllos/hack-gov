@@ -18,7 +18,7 @@ COMEÇA | Proposta da Hack Gov
 
 ~~O Brasil encontra-se em momento decisivo para seu futuro. Como nação, estamos passando por momentos delicados em nossa democracia. Como potência, o cenário econômico exige seriedade e estratégia para ser modificado. Da crise econômica e política que vivemos, apenas temos a certeza de que ela chegará ao fim. Apesar de não podermos prever o quando e o como, ainda podemos, como sociedade ativa, informada e crítica, debater largamente as possibilidades e os caminhos existentes~~
 
-Ao organizar a __Conferência Desafio Brasil__, a equipe do __LAB FGV__ verificou a existência de gestores públicos comprometidos com a inovação digital e a falta de desenvolvedores envolvimentos em projetos-piloto junto ao setor público. A proposta da _hack-gov_ é promover o encontro de gestores públicos com as pessoas capacitadas tecnicamente para desenvolver projetos de inovação digital.
+Ao organizar a __Conferência Desafio Brasil__, a equipe do __LAB FGV__ verificou a existência de gestores públicos comprometidos com a inovação digital e a falta de desenvolvedores envolvidos em projetos-piloto junto ao setor público. A proposta da _hack-gov_ é proporcionar o encontro de gestores públicos com as pessoas capacitadas tecnicamente para desenvolver projetos de inovação digital.
 
 O diagnóstico feito pelo __LAB FGV__ indica que não há falta de programadores _socially-oriented_, i.e., preocupados com o bem-estar social da sociedade em que vivem. Uma vez que não parece haver falta de demanda por esses desenvolvedores, existe um obstáculo que impede o encontro de gestores e de programadores: __a ausência de espaços e de redes que os conectem.__ 
 
@@ -57,7 +57,7 @@ Com a realização da _hack-gov_, pretende-se colocar os desenvolvedores formado
 - Comunidade acadêmica de outras universidades;
 - Gestores públicos locais, regionais e nacionais;
 
-O evento é destinado a todos aqueles que se interessem e/ou queiram discutir e propor novas agendas da política brasileira.
+O evento é destinado a todos aqueles que se interessem e/ou queiram discutir, melhorar e propor agendas da política brasileira.
 
 ## 5. CRONOGRAMA E CONVIDADOS
 
