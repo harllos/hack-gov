@@ -28,13 +28,13 @@ A _hack-gov_ é um modo de fazer com que pessoas interessadas em _hackear_ o gov
 
 ## 2. OBJETIVOS
 
-Criação de uma rede de desenvolvedores dispostos a encontrar soluções estruturais para problemas nacionais utilizando tecnologia de informação. 
+- Criação de uma rede de desenvolvedores dispostos a encontrar soluções estruturais para problemas nacionais utilizando tecnologia de informação. 
 
-Unir essa rede de desenvolvedores às demandas do Poder Público.
+- Unir essa rede de desenvolvedores às demandas do Poder Público.
 
-Fazer o LAB FGV ser reconhecido nacionalmente como o ponto focal de inovação em tecnologia e políticas públicas tanto para desenvolvedores quanto para interessados no tema.
+- Fazer o LAB FGV ser reconhecido nacionalmente como o ponto focal de inovação em tecnologia e políticas públicas tanto para desenvolvedores quanto para interessados no tema.
 
-Agregar mais agentes da área de desenvolvimento de novas tecnologias ao projeto da __Conferência Desafio Brasil__.
+- Agregar mais agentes da área de desenvolvimento de novas tecnologias ao projeto da __Conferência Desafio Brasil__.
 
 ## 3. METODOLOGIA 
 
@@ -83,6 +83,14 @@ _ideias: pablo cerdeira, alex van de sande, etc_
 
 _Vai precisar do que em cada etapa da jornada?
 Ajuda de custo_
+
+Lista de coisas que precisarão de recursos financeiros:
+
+- Coffee break
+- Passagens aéreas para convidadxs ilustres
+- Hospedagem para convidadxs ilustres
+- Impressão de material de evento/divulgação (flyers, posters etc)
+- (Opcional) Premiação
 
 TERMINA | Proposta da Hack Gov
 ------- | -------
