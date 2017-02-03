@@ -15,6 +15,7 @@ Formato: Nome | Nome do contato (inserir na lista 2.)
 - Bancos? 
 - Assistencial/Elevential
 - Instituto de Tecnologia e Sociedade do Rio de Janeiro (ITS)
+- Microsoft
 
 
 ## Poder Público (Executivo/Administração Direta)
