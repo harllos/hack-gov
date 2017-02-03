@@ -1,6 +1,6 @@
-1. Organizações
+# Organizações
 
-1.1 Empresas e ONGs
+## Empresas e ONGs
 
 Formato: Nome | Nome do contato (inserir na lista 2.)
 
@@ -17,18 +17,21 @@ Formato: Nome | Nome do contato (inserir na lista 2.)
 - Instituto de Tecnologia e Sociedade do Rio de Janeiro (ITS)
 
 
-1.2 Poder Público (Executivo/Administração Direta)
+## Poder Público (Executivo/Administração Direta)
 
 - Prefeitura do Rio de Janeiro?
 -
 
-1.3 Poder Público (Outros)
+## Poder Público (Outros)
 
 - Comitê Gestor da Internet no Brasil (CGI.br)
 
 
 
-2. Pessoas
+
+
+
+# Pessoas
 
 Formato: Nome | Organização (se tiver) | Telefone (se tiver) | Email (se tiver)
 
